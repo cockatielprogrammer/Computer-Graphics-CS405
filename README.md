@@ -1,4 +1,4 @@
-# Computer-Graphics-CS4059
+# Computer-Graphics-CS405
 Projects and Mini Projects for Computer Graphics lesson such as Data Visualization
 
 
